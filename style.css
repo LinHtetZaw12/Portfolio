@@ -31,6 +31,17 @@ body > div:nth-child(1) > div.px-4.py-5.my-5.text-center > div > p {
     background-color:   #eacc8b   ;
     color: white; /* Hover color */
 }
+#footer > footer > div.row > div > form > div > button {
+    background-color: #eacc8b;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#footer > footer > div.row > div > form > div > button:hover {
+    background-color: #d1b76f;
+}
 
 
 
